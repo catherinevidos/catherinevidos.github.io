@@ -5,7 +5,6 @@
 ///
 
 /* Icon */
-
 	.icon {
 		@include icon;
 		border-bottom: none;
@@ -94,3 +93,5 @@
 	}
 
 	@include color-icon;
+
+	
